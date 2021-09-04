@@ -1,17 +1,20 @@
-<b>6.)ABJECT</b> /ˈæbdʒekt/ adj hopeless; extremely sad and servile; defeated
+<b>6.)ABJECT</b> /ˈæbdʒekt/ adj hopeless; extremely sad and servile; defeated <br>
 (adj) မျှော်လင့်ချက်မဲ့သော။ ၀မ်းနည်းသော၊ နိုမ့်ချလွန်းသော။ ကျရှုံးသော။
-- While most people would quickly recover from a stumble on stage, Mia felt abject humiliation.
-An abject person is one who is crushed and without hope. A slave would be abject, in all likelihood.
+- While most people would quickly recover from a stumble on stage, Mia felt abject humiliation.<br>
+- လူအများစုကဇာတ်ခုံပေါ်တွင် ချော်လဲကျမှုမှ အမြန်ပြန်ကောင်းသော်လည်း Mia သည် ဆိုးရွားသည့် အရှက်ရမှုကိုခံစားခဲ့ရသည်။ <br>
+An abject person is one who is crushed and without hope. A slave would be abject, in all likelihood.<br>
+abject person သည် ကြေမွ ပြီး မျှော်လင့်ချက်မဲ့သူ  ဖြစ်သည်။ အများအားဖြင့် ကျွန်တစ်ဉီးသည် မျှော်လင့်ချက်မဲ့နေမည် ဖြစ်သည်။ <br>
 Perhaps 90 percent of the time, when you encounter this word it will be followed by the word poverty. Abject poverty is hopeless, desperate poverty. The phrase “abject poverty” is overused. Writers use it because they are too lazy to think of anything original.
-Vocabs
-Abject (adj) မျှော်လင့်ချက်မဲ့သော။ ၀မ်းနည်းနိုမ့်ကျသော။ ကျရှုံးသော။
-servile (adj) ကျွန်ကဲ့သို့ နိုမ့်ကျသော၊ ကျွန်ကဲ့သို့ဖြစ်သော။
-In all likelihood – very probably
-ABNEGATE(AB nuh gayt) v to deny oneself things; to reject; to renounce
-• Ascetics practice self-abnegation because they believe it will bring them closer to spiritual purity.
+များသောအားဖြင့် သင်ဤစကားလုံးကိုတွေ့သောအခါ၎င်းသည်ဆင်းရဲခြင်းဟူသောစကားလုံးနောက်မှလိုက်ပါလိမ့်မည်။ မျှော်လင့်ချက်ချက်မဲ့သော ဆင်းရဲခြင်းကို abject poverty ဟု သုံးသည်။
+
+<b>7.)ABNEGATE</b> /ˈæbnɪˌɡeɪt/  v to deny oneself things; to reject; to renounce <br>
+(v) ငြင်းပယ်သည်။ ငြင်းဆန်သည်။ စွန့်လွတ်သည်။
+- Ascetics practice self-abnegation because they believe it will bring them closer to spiritual purity.
+- Ascetics များသည် ၎င်းတို့အား စိတ်ဝိညာဉ် သန့်ရှင်းမှုသို့ ပိုမိုနီးစပ်စေလိမ့်မည်ဟုယုံကြည်ကြသောကြောင့် ချိုးခြံစွာကျင့်ခြင်းအမှုကို ကျင့်သုံးကြသည်။
 Self-abnegation is giving up oneself, usually for some higher cause.
+
 Vocabs
-Abnegate (v) စွန့်လွတ်သည်။ ငြင်းဆန်သည် (စည်းစိမ် စသည်ကို)။ စွန့်လွတ်သည်။
+Abnegate (v) 
 Ascetics 👎 ခြိုးခြံစွာ အားထုတ်သူ (for higher purpose)။
 
 ABORTIVE (uh BOR tiv) adj unsuccessful
