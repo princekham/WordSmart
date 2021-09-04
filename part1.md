@@ -1,5 +1,5 @@
 - Word Smart စာအုပ်မှာ ကျောင်းသားတိုင် မဖြစ်မနေ သိထားသင့်တဲ့ အသုံးအများဆုံး စကားလုံး ၁၄၀၀ ကို ပြုစုထားပါတယ်။ 
-- ဒီစာအုပ်ထဲက စကားလုံး အသံထွက်တွေကိုဖတ်ရလွယ်အောင် phonetic symbols အနေနဲ့ ပြောင်းထားပါတယ်။ အသံထွက် phonetic symbols တွေကို <a href="https://www.collinsdictionary.com/">Collins Dictionary</a> ကနေ ရယူထား ပါတယ်။ phonetics မဖတ်တတ်ရင်တော့ အဲဒီ web siteမှာ သွားပြီး စကားလုံးရိုက်ထည့် ပြီး အသံထွက်ကို နားထောင်ရမှာ ဖြစ်ပါတယ်။
+- ဒီစာအုပ်ထဲက စကားလုံး အသံထွက်တွေကိုဖတ်ရလွယ်အောင် phonetic symbols အနေနဲ့ ပြောင်းထားပါတယ်။ အသံထွက် phonetic symbols တွေကို <a href="https://www.collinsdictionary.com/">Collins Dictionary</a> ကနေ ရယူထား ပါတယ်။ phonetics မဖတ်တတ်ရင်တော့ အဲဒီ web siteမှာ သွားပြီး စကားလုံးရိုက်ထည့် ပြီး အသံထွက်ကို နားထောင်ရမှာ ဖြစ်ပါတယ်။ phonetics ဖတ်တဲ့ အခါမှာ / ˈ/ ရှိတဲ့ နေရာမှာ အသံတက်ရမှာဖြစ်ပါတယ်။
 - စာလုံးများကို အထက်ပါ စာအုပ်ထဲကနေ ထုတ်နုတ်ထားတာဖြစ်ပြီး ရှင်းလင်းချက်တွေကတော့ ကျွန်တော့်ပြုစုရေးသားမှုဖြစ်ပါတယ်။
 - Word Smart 6th Edition ကို အောက်ပါ လင့်က နေရယူနိုင်ပါတယ်။
 <a href="http://www.e4thai.com/e4e/images/pdf2/_Smart_Guides_Princeton_Review-Word_Smart_6th_Edit.pdf">Word Smart, 6th Edition</a>
