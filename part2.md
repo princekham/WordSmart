@@ -1,6 +1,6 @@
-<b>6.)ABJECT</b> /æbdʒekt/ adj hopeless; extremely sad and servile; defeated
-(adj) မျှော်လင့်ချက်မဲ့သော။ ၀မ်းနည်းနိုမ့်ကျသော။ ကျရှုံးသော။
-• While most people would quickly recover from a stumble on stage, Mia felt abject humiliation.
+<b>6.)ABJECT</b> /ˈæbdʒekt/ adj hopeless; extremely sad and servile; defeated
+(adj) မျှော်လင့်ချက်မဲ့သော။ ၀မ်းနည်းသော၊ နိုမ့်ချလွန်းသော။ ကျရှုံးသော။
+- While most people would quickly recover from a stumble on stage, Mia felt abject humiliation.
 An abject person is one who is crushed and without hope. A slave would be abject, in all likelihood.
 Perhaps 90 percent of the time, when you encounter this word it will be followed by the word poverty. Abject poverty is hopeless, desperate poverty. The phrase “abject poverty” is overused. Writers use it because they are too lazy to think of anything original.
 Vocabs
